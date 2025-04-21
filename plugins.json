@@ -8,5 +8,11 @@
   {
   "name": "mariyeta plugin",
   "entry": "./plugins/mariyeta-plugin/plugin.js"
+},
+
+{
+  "name": "maria plugin",
+  "entry": "./plugins/maria-plugin/plugin.js"
 }
+
 ]
